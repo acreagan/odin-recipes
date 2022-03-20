@@ -1,3 +1,8 @@
 #main-div {
     background-color: blanchedalmond;
 }
+
+#main-heading,
+.recipe-links {
+    font-family: "Courier New", "Lucida Console", monospace;
+}
