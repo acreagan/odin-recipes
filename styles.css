@@ -2,9 +2,7 @@
     background-color: blanchedalmond;
 }
 
-#main-heading,
-#our-favorites,
-.recipe-links {
+.text {
     font-family: "Courier New", "Lucida Console", monospace;
 }
 
