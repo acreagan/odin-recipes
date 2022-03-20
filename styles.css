@@ -6,3 +6,8 @@
 .recipe-links {
     font-family: "Courier New", "Lucida Console", monospace;
 }
+
+#main-image {
+    height: auto;
+    width: 300px;
+}
