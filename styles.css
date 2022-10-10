@@ -9,6 +9,10 @@ body {
     width:500px
 }
 
+.home-list {
+    font-size: 24px;
+}
+
 img {
     height: auto;
     width:250px
